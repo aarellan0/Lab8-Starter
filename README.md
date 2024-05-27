@@ -2,4 +2,4 @@
 ## Aaron Arellano A17376822
 https://aarellan0.github.io/Lab8-Starter/
 
-![image](pwg.png)
+![image](pwa.png)
